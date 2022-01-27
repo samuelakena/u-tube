@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/https//samuelakena.github.io/u-tube/static/css/main.03038a13.css",
-    "main.js": "/https//samuelakena.github.io/u-tube/static/js/main.b0a045d2.js",
-    "index.html": "/https//samuelakena.github.io/u-tube/index.html",
-    "main.03038a13.css.map": "/https//samuelakena.github.io/u-tube/static/css/main.03038a13.css.map",
-    "main.b0a045d2.js.map": "/https//samuelakena.github.io/u-tube/static/js/main.b0a045d2.js.map"
+    "main.css": "/u-tube/static/css/main.03038a13.css",
+    "main.js": "/u-tube/static/js/main.b0a045d2.js",
+    "index.html": "/u-tube/index.html",
+    "main.03038a13.css.map": "/u-tube/static/css/main.03038a13.css.map",
+    "main.b0a045d2.js.map": "/u-tube/static/js/main.b0a045d2.js.map"
   },
   "entrypoints": [
     "static/css/main.03038a13.css",
